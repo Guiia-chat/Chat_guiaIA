@@ -5,7 +5,7 @@ import mysql.connector
 conexao = mysql.connector.connect(
     host='localhost',
     user='root',
-    password='9532',
+    password='####',
     database=' Chat_bot_Guiia'
 )
 cursor = conexao.cursor()
